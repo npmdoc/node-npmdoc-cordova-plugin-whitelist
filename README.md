@@ -1,6 +1,6 @@
 # npmdoc-cordova-plugin-whitelist
 
-#### api documentation for  [cordova-plugin-whitelist (v1.3.2)](https://github.com/apache/cordova-plugin-whitelist#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-cordova-plugin-whitelist.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-cordova-plugin-whitelist) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-cordova-plugin-whitelist.svg)](https://travis-ci.org/npmdoc/node-npmdoc-cordova-plugin-whitelist)
+#### basic api documentation for  [cordova-plugin-whitelist (v1.3.2)](https://github.com/apache/cordova-plugin-whitelist#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-cordova-plugin-whitelist.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-cordova-plugin-whitelist) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-cordova-plugin-whitelist.svg)](https://travis-ci.org/npmdoc/node-npmdoc-cordova-plugin-whitelist)
 
 #### Cordova Whitelist Plugin
 
@@ -84,7 +84,8 @@
         "type": "git",
         "url": "git+https://github.com/apache/cordova-plugin-whitelist.git"
     },
-    "version": "1.3.2"
+    "version": "1.3.2",
+    "bin": {}
 }
 ```
 
